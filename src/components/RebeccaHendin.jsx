@@ -33,7 +33,7 @@ const RebeccaHendin = () => {
       </Typography>
 
       <Typography display="block" style={{ textAlign: "center", marginBottom: "2rem" }} gutterBottom>
-        All funds from the sale of the NFT go to politicians who provably act to support crypto. These funds allow us to
+        All funds from the sale of the "common" and "rare" NFTs go to politicians who provably act to support crypto. These funds allow us to
         <HrefLink href="https://pacdao.substack.com/p/the-art-of-applying-force">apply leverage</HrefLink>
         toward our goal of removing crypto from the infrastructure bill.
       </Typography>
